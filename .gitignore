@@ -1,0 +1,12 @@
+# Plugin cache / runtime artifacts
+*.bus
+*.cache
+
+# Editor/OS cruft
+*.swp
+*.swo
+.DS_Store
+
+# Quickshell / Qt build artifacts
+build/
+*.user

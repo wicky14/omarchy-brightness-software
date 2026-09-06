@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "omakid.brightness-software",
+  "name": "Software Brightness",
+  "version": "1.0.0",
+  "author": "wicky14",
+  "license": "MIT",
+  "description": "Software (gamma-based) brightness control for monitors that ignore DDC/CI writes, driven through Hyprland gamma.",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "BarWidget.qml"
+  },
+  "barWidget": {
+    "displayName": "Software Brightness",
+    "description": "Software brightness for the HDMI monitor via Hyprland gamma",
+    "category": "System",
+    "allowMultiple": false,
+    "defaultSection": "right"
+  }
+}
