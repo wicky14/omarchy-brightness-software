@@ -1,4 +1,4 @@
-# screenshot
+# Screenshot
 
 <img width="335" height="203" alt="image" src="https://github.com/user-attachments/assets/155da67e-1639-4721-a525-4cef1a478980" />
 
